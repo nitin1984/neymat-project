@@ -1,0 +1,10 @@
+
+.node-unpublished {
+  background-color: none;
+}
+.preview .node {
+  background-color: #ffffea;
+}
+td.revision-current {
+  background: #ffc;
+}

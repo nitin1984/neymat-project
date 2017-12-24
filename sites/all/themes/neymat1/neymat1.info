@@ -1,0 +1,28 @@
+
+name = Neymat1
+description = A flexible, recolorable theme with many regions.
+package = Core
+version = VERSION
+core = 7.x
+
+
+stylesheets[all][] = css/style.css
+
+
+regions[menu] = Menu
+regions[header_bottom] = Header bottom
+regions[slider] = Slider
+regions[welcome]= Welcome
+regions[infras_content]= Infras. content
+regions[content]= Content
+regions[gallery_block]= Gallery block
+
+
+settings[shortcut_module_link] = 0
+
+
+; Information added by Drupal.org packaging script on 2015-06-17
+version = "7.38"
+project = "drupal"
+datestamp = "1434567286"
+
